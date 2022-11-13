@@ -1,0 +1,6 @@
+Z:\Platforms\IconSizeTest\bin\publish\D3DCompiler_47_cor3.dll
+Z:\Platforms\IconSizeTest\bin\publish\PenImc_cor3.dll
+Z:\Platforms\IconSizeTest\bin\publish\PresentationNative_cor3.dll
+Z:\Platforms\IconSizeTest\bin\publish\vcruntime140_cor3.dll
+Z:\Platforms\IconSizeTest\bin\publish\wpfgfx_cor3.dll
+Z:\Platforms\IconSizeTest\bin\publish\IconSizeTest.exe

@@ -1,0 +1,15 @@
+Z:\Platforms\IconSizeTest\bin\Release\net6.0-windows7.0\IconSizeTest.exe
+Z:\Platforms\IconSizeTest\bin\Release\net6.0-windows7.0\IconSizeTest.deps.json
+Z:\Platforms\IconSizeTest\bin\Release\net6.0-windows7.0\IconSizeTest.runtimeconfig.json
+Z:\Platforms\IconSizeTest\bin\Release\net6.0-windows7.0\IconSizeTest.dll
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\IconSizeTest.csproj.AssemblyReference.cache
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\IconSizeTest.Form1.resources
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\IconSizeTest.csproj.GenerateResource.cache
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\IconSizeTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\IconSizeTest.AssemblyInfoInputs.cache
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\IconSizeTest.AssemblyInfo.cs
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\IconSizeTest.csproj.CoreCompileInputs.cache
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\IconSizeTest.dll
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\refint\IconSizeTest.dll
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\IconSizeTest.genruntimeconfig.cache
+Z:\Platforms\IconSizeTest\obj\Release\net6.0-windows7.0\ref\IconSizeTest.dll

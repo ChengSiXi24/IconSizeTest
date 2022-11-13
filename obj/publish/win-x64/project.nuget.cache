@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAvF8kJVhZ+0Cco9HN4i0lE+tfFSzu4C3Zwjs7B10xwL7ImlUfRS4XEDzbg/2PnMXpijFmiddXnDIFcwTSfUPA==",
+  "success": true,
+  "projectFilePath": "Z:\\Platforms\\IconSizeTest\\IconSizeTest.csproj",
+  "expectedPackageFiles": [
+    "N:\\Users\\14233\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.6\\microsoft.netcore.app.runtime.win-x64.6.0.6.nupkg.sha512",
+    "N:\\Users\\14233\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.6.nupkg.sha512",
+    "N:\\Users\\14233\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.6\\microsoft.aspnetcore.app.runtime.win-x64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
